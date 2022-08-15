@@ -41,3 +41,16 @@ First Task in Software Engineering
 ![20220810_115316](https://user-images.githubusercontent.com/110997651/184611474-b3831220-5056-49d2-818d-a4ba46d90af8.jpg | height: 124px | width: 80px | opacity: 0.6)
 
 ## Tables 
+| Column 1 | Column 2 | Column 3 |
+|----------| ---------| ---------|
+| John     | Doe      | Male     |
+| Mary     | Smith    | Female   |
+
+## Displaying Code
+'var example = "Hello!";'
+
+'''
+
+var example = "Hello!";
+alert(example);
+'''
